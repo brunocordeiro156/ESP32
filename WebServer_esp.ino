@@ -8,8 +8,8 @@
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 
 // Dados para conexão Wi-Fi
-const char* ssid = "CLARO_2G40595C"; // Inserir nome da rede
-const char* password = "33322585"; // Inserir senha da rede
+const char* ssid = "***"; // Inserir nome da rede
+const char* password = "***"; // Inserir senha da rede
 WiFiServer server(80);
 // Dados para definição de IP Fixo
 //IPAddress local_IP(192, 168, 0, 108);
